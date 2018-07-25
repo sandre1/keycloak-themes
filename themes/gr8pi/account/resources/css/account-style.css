@@ -1,0 +1,10 @@
+#acc-header-wrapper img {
+  width: 100px;
+  height: auto;
+}
+.navbar-header {
+  border: none;
+  background-color:#38464d;
+  padding-top:20px;
+  padding-bottom: 20px;
+}
